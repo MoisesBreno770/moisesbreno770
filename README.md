@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesbreno770&layout=compact)](https://github.com/moisesbreno770/github-readme-stats) 
 
-## Tecnologias que eu mais utilizo
+## Technologies I use most
 
 <div style="display: inline-block">
   <img align="center" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
