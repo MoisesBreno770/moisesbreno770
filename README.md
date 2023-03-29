@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Moises</h1>
 
 🔭 I'm currently working with Full Stack development <br>
-🌱 I am currently specializing in JavaScript & TypeScript, NodeJS, NestJS, Angular and ReactJS in order to further improve my skills in these tools
+🌱 I am currently specializing in JavaScript & TypeScript, NodeJS, NestJS, Angular and ReactJS to develop web applications
 
 <div>
   <a href="https://github.com/ellen2121">
