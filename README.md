@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/moises-breno-216740219/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-![Snake animation](https://github.com/MoisesBreno770/moisesbreno770/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/moisesbreno770/moisesbreno770/blob/output/github-contribution-grid-snake.svg)
 
 
           
