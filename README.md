@@ -1,4 +1,4 @@
-<h1 align="center">Hello! My name is Moisess</h1>
+<h1 align="center">Hello! My name is Moises</h1>
 
 🔭 I'm currently working with Full Stack development <br>
 🌱 I am currently specializing in JavaScript & TypeScript, NodeJS, NestJS, Angular and ReactJS in order to further improve my skills in these tools
