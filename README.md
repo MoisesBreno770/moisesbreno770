@@ -3,8 +3,13 @@
 🔭 I'm currently working with Full Stack development <br>
 🌱 I am currently specializing in JavaScript & TypeScript, NodeJS, NestJS, Angular and ReactJS in order to further improve my skills in these tools
 
-[![MoisesBreno770's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesbreno770&show_icons=true&theme=dracula)](https://github.com/moisesbreno770/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesbreno770&layout=compact)](https://github.com/moisesbreno770/github-readme-stats)
+<div>
+  <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=moisesbreno770&show_icons=true&theme=dracula"/>
+  
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesbreno770&layout=compact" />
+
+ 
 
 
 <h1 align="center">Technologies I use most</h1>
@@ -30,7 +35,6 @@
 <a href="https://www.linkedin.com/in/moises-breno-216740219/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
- ![Snake animation](https://github.com/moisesbreno770/moisesbreno770/blob/output/github-contribution-grid-snake.svg)
 
 
           
