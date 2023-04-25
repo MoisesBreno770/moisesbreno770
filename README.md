@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Moises</h1>
 
 🔭 I'm currently working with Full Stack development <br>
-🌱 I am currently specializing in JavaScript & TypeScript, NodeJS, NestJS, Express, Angular and ReactJS to develop web applications
+🌱 I am currently specializing in JavaScript & TypeScript, Node.js, NestJS, AdonisJS, Express, Angular and ReactJS to develop web applications
 
 <div>
   <a href="https://github.com/ellen2121">
@@ -18,6 +18,8 @@
   <img align="center" height="70" width="80" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
             
   <img align="center" height="70" width="80" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  
+  <img align="center" height="70" width="80" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   
   <img align="center" height="70" width="80" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
                   
