@@ -17,7 +17,7 @@
 <div style="display: inline-block" align="center">
   <img align="center" height="70" width="80" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
             
-  <img align="center" height="70" width="80" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img src="https://logo.svgcdn.com/l/nestjs.svg" alt="NestJS Logo" width="80">
   
   <img align="center" height="70" width="80" alt="AdonisJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   
