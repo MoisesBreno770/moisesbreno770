@@ -2,16 +2,7 @@
 
 🔭 I'm currently working with Full Stack development <br>
 🌱 I am currently specializing in JavaScript & TypeScript, Node.js, NestJS, AdonisJS, Express, Angular and ReactJS to develop web applications
-
-<!-- <div>
-  <a href="https://github.com/ellen2121">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=moisesbreno770&show_icons=true&theme=dracula"/>
-  
-<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesbreno770&layout=compact" /> -->
-
  
-
-
 <h1 align="center">Technologies I use most</h1>
 
 <div style="display: inline-block" align="center">
