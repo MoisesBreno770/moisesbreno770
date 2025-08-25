@@ -26,7 +26,7 @@ Driven by passion for technology, I face complex challenges with enthusiasm and 
 
 <div style="display: inline-block;" align="center">
   <img align="center" height="70" width="80" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img src="https://logo.svgcdn.com/l/nestjs.svg" alt="NestJS Logo" width="80" height="70" style="display:inline-block; margin:0 10px;" />
+  <img src="https://logo.svgcdn.com/l/nestjs.svg" alt="NestJS Logo" width="80" height="70" align="center" />
   <img align="center" height="70" width="80" alt="AdonisJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" height="70" width="80" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" height="70" width="80" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
